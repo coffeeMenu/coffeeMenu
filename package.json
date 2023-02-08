@@ -1,0 +1,15 @@
+{
+  "name": "coffeeMenu",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd coffeeMenu-backend; ./pocketbase serve\" \"cd coffeeMenu-dashboard; yarn dev\" \"cd coffeeMenu-front; yarn dev\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

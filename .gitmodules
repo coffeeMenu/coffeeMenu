@@ -1,0 +1,12 @@
+[submodule "coffeeMenu-backend"]
+	path = coffeeMenu-backend
+	url = https://github.com/coffeeMenu/coffeeMenu-backend
+[submodule "coffeeMenu-shared-logic"]
+	path = coffeeMenu-shared-logic
+	url = https://github.com/coffeeMenu/coffeeMenu-shared-logic
+[submodule "coffeeMenu-front"]
+	path = coffeeMenu-front
+	url = https://github.com/coffeeMenu/coffeeMenu-front
+[submodule "coffeeMenu-dashboard"]
+	path = coffeeMenu-dashboard
+	url = https://github.com/coffeeMenu/coffeeMenu-dashboard
